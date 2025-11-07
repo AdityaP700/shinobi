@@ -1,7 +1,8 @@
 # Shinobi 
 
 **A CLI for Solana NFT intelligence, forged in Rust.**
-<img width="1488" height="676" alt="image" src="https://github.com/user-attachments/assets/fb70099e-3859-4256-b699-65726704d9c1" />
+
+<img width="540" height="615" alt="Screenshot 2025-11-07 211857" src="https://github.com/user-attachments/assets/244518c3-8da2-496a-924a-9eaeb4e4e21e" />
 
 `shinobi` is a command-line tool that bypasses slow, cluttered UIs to deliver instant, high-signal forensic reports on Solana NFTs and wallets directly in your terminal. It's built for speed, accuracy, and a beautiful user experience.
 
@@ -17,16 +18,22 @@
 
 ### 演示 (Demo)
 
-- with `unmask` command :
-  <img width="1071" height="611" alt="image" src="https://github.com/user-attachments/assets/088fffd2-8402-4208-b6d9-2e71f88b637f" />
+- **With `unmask` command**:  
+  <img width="480" alt="unmask command" src="https://github.com/user-attachments/assets/088fffd2-8402-4208-b6d9-2e71f88b637f" />
 
-- with `unmask && --image` commmand :
- <img width="1514" height="688" alt="image" src="https://github.com/user-attachments/assets/f9ad082d-0363-4d69-a0b0-b2eca08225ef" />
- <img width="805" height="1011" alt="image" src="https://github.com/user-attachments/assets/54402009-48c3-4f9a-ae38-882b4d87ebf7" />
+---
 
-- with `dossier` command :
-<img width="975" height="232" alt="image" src="https://github.com/user-attachments/assets/7a8f0487-ef1c-4f43-80df-7116eff22be9" />
+- **With `unmask && --image` command**:
+  - **Pixelated ASCII image:**  
+    <img width="350" alt="Pixelated ASCII" src="https://github.com/user-attachments/assets/e1c06b83-916c-478e-bee5-ffe359217ddd" />
 
+  - **Colored ASCII image:**  
+    <img width="360" alt="Colored ASCII" src="https://github.com/user-attachments/assets/0ecd6e27-968e-4a62-8f5f-42d5014712dd" />
+
+---
+
+- **With `dossier` command**:  
+ <img width="360" height="325" alt="Screenshot 2025-11-07 213834" src="https://github.com/user-attachments/assets/b8e23d48-a748-4a12-9ae2-11523c3c3559" />
 
 ---
 
